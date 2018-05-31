@@ -27,6 +27,14 @@
 - RxJS operators [Reference](https://github.com/btroncone/learn-rxjs/blob/master/operators/complete.md)
 ### routing
 - item1
+- Create links based on added routes
+- router lifecycle events
+- default path and redirection
+- not defined route
+- param map
+- navigate programatically
+- multiple router outlet
+- TODO
 ### components
 - item1
 ### directive
