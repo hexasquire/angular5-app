@@ -7,9 +7,10 @@
 - 2 apis in chain 
 - 2 apis in parallal
 - return result of more APIs, separately and merged way
-- debounce
+- debounce [Reference](https://angular.io/guide/practical-observable-usage#type-ahead-suggestions)
 - process response and return
-- retry API call with time delay and limit
+- cancel request [Reference](https://angular.io/guide/comparing-observables#cancellation)
+- retry API call with time delay and limit [reference](https://angular.io/guide/practical-observable-usage#exponential-backoff)
 - Access response header. use case: [subsequent token](https://angular.io/guide/http#reading-the-full-response)
 - handle error wisely
 - non json data as a response
@@ -30,6 +31,12 @@
 - item1
 ### directive
 - item1
+### modules
+- basics
+- singleton service
+- Lazy loading module [Reference](https://angular.io/guide/lazy-loading-ngmodules)
+- sharing module. Like: common module
+-  Hirarchical injector [Reference](https://angular.io/guide/hierarchical-dependency-injection)
 ### form
 - item1
 ### other
